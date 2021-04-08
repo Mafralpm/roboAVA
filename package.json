@@ -1,0 +1,30 @@
+{
+  "name": "roboava",
+  "version": "1.0.0",
+  "description": "Robo que automatiza algumas rotinas no AVA",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mafralpm/roboAVA.git"
+  },
+  "keywords": [
+    "Puppeteer",
+    "Robo"
+  ],
+  "author": "Mafralpm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mafralpm/roboAVA/issues"
+  },
+  "homepage": "https://github.com/Mafralpm/roboAVA#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.7",
+    "puppeteer": "^8.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
